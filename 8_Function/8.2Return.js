@@ -7,5 +7,8 @@ console.log(e);
 function zero(){
    return "hello Bangladesh"
 }
+// fist method
 var all=zero()
 console.log(all);
+// second method 
+console.log(zero());
