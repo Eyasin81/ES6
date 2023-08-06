@@ -6,7 +6,7 @@ function add(a,b){
    console.log(`The sum is ${sum}`);
 }
 add(10,30)
-
+// Parameter Return Function
 function test(a,b,c,d){
    return a+b+c+d
 }
