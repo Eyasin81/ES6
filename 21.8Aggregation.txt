@@ -1,0 +1,7 @@
+// Aggregation:
+
+// reduce(): 
+// reduceRight(): 
+// some():
+// every(): 
+// includes():
